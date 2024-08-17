@@ -84,6 +84,19 @@ MVP（最小可行产品）启动时，假设有100个链上地址参与，每�
 结论
 Dropin DApp通过结合Vara Network的特性，提供一个创新的区块链抽奖平台，不仅增加了用户的互动性和参与度，而且通过DeFi和NFT的融合，为用户创造了新的价值获取方式。随着项目的不断发展和社区的壮大，Dropin有望成为Vara Network生态系统中的一颗璀璨明星。
 
+团队成员
+
+Hangbiao https://github.com/btwiuse
+Li Smith https://github.com/baidang201
+Harry https://github.com/iamhappyboy
+Lee Zhang https://github.com/Dropineth/
+Hangbiao https://github.com/btwiuse
+
+
+![image](https://github.com/user-attachments/assets/ce9fa505-1e16-46de-bb14-96b1faa92838)
+![image](https://github.com/user-attachments/assets/0c5887e1-0cb3-48a2-836a-0c787c9211fc)
+![image](https://github.com/user-attachments/assets/f7f325e2-037c-46e3-bff2-3f49ce245b7f)
+![image](https://github.com/user-attachments/assets/e525497d-24cb-438d-93c8-df98e8ec6704)
 
 
 
