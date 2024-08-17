@@ -4,7 +4,7 @@ Dropin DApp - 融合DeFi、GameFi与创新技术的区块链抽奖平台
 1.Innovative Dapps
 创新应用类赛道，Defi, Gamefi，，NFTs，DEX等 Mass Adoption 的应用。
 
-Bounty  Vara Network Track
+>Bounty  Vara Network Track
 
 
 项目概述
