@@ -1,5 +1,12 @@
 Dropin DApp - 融合DeFi、GameFi与创新技术的区块链抽奖平台
 
+>主赛道
+1.Innovative Dapps
+创新应用类赛道，Defi, Gamefi，，NFTs，DEX等 Mass Adoption 的应用。
+
+Bounty  Vara Network Track
+
+
 项目概述
 Dropin是一个创新的区块链DApp，构建在Vara Network之上，旨在通过游戏化抽奖、金融激励、NFT资产和去中心化交易，为用户提供一个全新的互动体验和价值创造平台。利用智能合约和区块链技术，Dropin确保了抽奖过程的公平性、透明性和安全性。
 
@@ -95,10 +102,17 @@ Harry https://github.com/iamhappyboy
 Lee Zhang https://github.com/Dropineth/
 
 
+历史获奖说明：2024年08月ETH黑客松新组队新项目，无获奖
+
+项目演示
+
+Deck
 ![image](https://github.com/user-attachments/assets/ce9fa505-1e16-46de-bb14-96b1faa92838)
 ![image](https://github.com/user-attachments/assets/0c5887e1-0cb3-48a2-836a-0c787c9211fc)
 ![image](https://github.com/user-attachments/assets/f7f325e2-037c-46e3-bff2-3f49ce245b7f)
 ![image](https://github.com/user-attachments/assets/e525497d-24cb-438d-93c8-df98e8ec6704)
 
 
+前端交互示例
+https://claude.site/artifacts/a14dd08b-f491-4660-b6d0-5bd3ea87e697
 
