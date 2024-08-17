@@ -87,10 +87,12 @@ Dropin DApp通过结合Vara Network的特性，提供一个创新的区块链抽
 团队成员
 
 Hangbiao https://github.com/btwiuse
+
 Li Smith https://github.com/baidang201
+
 Harry https://github.com/iamhappyboy
+
 Lee Zhang https://github.com/Dropineth/
-Hangbiao https://github.com/btwiuse
 
 
 ![image](https://github.com/user-attachments/assets/ce9fa505-1e16-46de-bb14-96b1faa92838)
