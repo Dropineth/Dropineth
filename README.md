@@ -102,16 +102,23 @@ Dropin is a new project formed for the August 2024 ETH Hackathon and has not yet
 ### Project Demo
 
 #### Deck
-![image](https://github.com/user-attachments/assets/ce9fa505-1e16-46de-bb14-96b1faa92838)
-![image](https://github.com/user-attachments/assets/0c5887e1-0cb3-48a2-836a-0c787c9211fc)
-![image](https://github.com/user-attachments/assets/f7f325e2-037c-46e3-bff2-3f49ce245b7f)
-![image](https://github.com/user-attachments/assets/e525497d-24cb-438d-93c8-df98e8ec6704)
+![df2db68b1cc342be2591fa187dbc01c](https://github.com/user-attachments/assets/b3bda9b5-ca35-4939-abcb-2be31e4d7f05)
+![bc3a902195dd7dd48a74f9a879da583](https://github.com/user-attachments/assets/61685b0c-ac3e-41ff-bd45-e94c39f90766)
+![f61011dfc294a0cdaa3ac3ec7441a0c](https://github.com/user-attachments/assets/9b33537b-93ef-42d6-abea-5811be023b67)
+![5ab78aa3eafec5010ab6caa5cc55483](https://github.com/user-attachments/assets/6aefa41f-d9aa-49af-9fd6-0e0a4bda8ecd)
+![7142be98a016e02ea812ed79ac11649](https://github.com/user-attachments/assets/a2c32cb1-a4e6-4e33-950a-37ac0cc36ed2)
+![5733fbeaddab1a34077877636032bf7](https://github.com/user-attachments/assets/9445987c-1b19-4b8e-97f2-0f16408890c4)
+![173efeec79b4c980524057228759cbe](https://github.com/user-attachments/assets/fe30335c-3f9d-4388-8235-432d5a99a2ca)
+![efbf8a8c9cf77342b295296ee84fb35](https://github.com/user-attachments/assets/e107214f-33fa-426d-a2c8-d96e092155a1)
+
+
+
 
 ### Frontend Interaction Example
 [Click here](https://claude.site/artifacts/a14dd08b-f491-4660-b6d0-5bd3ea87e697)
 
 
-分享telegram示意
+### Telegram Sharing Example
+![Telegram Sharing](https://github.com/user-attachments/assets/ba37b2bb-510b-4640-a9a1-82cf996fc497)
 
-![58ef5fe34f5c3d187ff365ca677a467](https://github.com/user-attachments/assets/ba37b2bb-510b-4640-a9a1-82cf996fc497)
 
