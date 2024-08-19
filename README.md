@@ -103,7 +103,7 @@ Dropin is a new project formed for the August 2024 ETH Hackathon and has not yet
 # Project Demo
 
 ## Deck
-
+[Click here]((https://docs.google.com/document/d/107-AjTQCHJsmBQsbN9ruQQQsj2UT1CbIbjCiFGmLUR0/edit?usp=sharing))
 
 ## Frontend Interaction Example
 [Click here](https://claude.site/artifacts/a14dd08b-f491-4660-b6d0-5bd3ea87e697)
