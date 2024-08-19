@@ -110,6 +110,6 @@ Dropin is a new project formed for the August 2024 ETH Hackathon and has not yet
 
 
 ## Telegram Sharing Example
-![Telegram Sharing](https://github.com/user-attachments/assets/ba37b2bb-510b-4640-a9a1-82cf996fc497)
+[Click here](https://docs.google.com/document/d/1qE7gY0R5kyxBSBIOmm-YX12IrnN0uARLy0hjv1_aZBc/edit?usp=sharing)
 
 
