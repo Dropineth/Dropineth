@@ -2,7 +2,6 @@
 
 A Decentralized Lottery Protocol Harnessing DeFi, GameFi, and Novel Blockchain Paradigms
 
-# Vara-Arena
 
 ## Main Track
 
