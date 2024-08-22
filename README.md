@@ -10,6 +10,7 @@ This track focuses on innovative applications such as DeFi, GameFi, NFTs, DEXs, 
 
 ## Bounty 
 ### Vara Network Track
+### Bifrost
 
 # Project Overview
 Dropin is an innovative blockchain DApp built on the Vara Network, designed to provide users with a new interactive experience and value creation platform through gamified lotteries, financial incentives, NFT assets, and decentralized trading. Leveraging smart contracts and blockchain technology, Dropin ensures fairness, transparency, and security in the lottery process.
