@@ -159,20 +159,25 @@ This roadmap aims to establish Dropin as a decentralized application that suppor
 ###  Phase 1: MVP Development and Testing
 **Core Features Development**
 -Build smart contracts on the Vara Network & Solana to implement core functionalities such as lottery, reward distribution, and NFT minting.
+
 -Develop the user frontend, providing a simple and user-friendly interface.
+
 -Integrate Blink social network to facilitate user interaction and sharing.
 
 **Testing and Optimization**
 -Conduct unit tests, integration tests, and security assessments.
+
 -Optimize user experience and improve system performance.
 
 ###  Phase 2: Community Building and Promotion
 **Community Incentive Programs**
 -Design multi-layered incentive mechanisms to encourage users to invite friends and participate in community activities.
+
 -Empower the community with governance rights, enabling members to actively participate in shaping the project's future.
 
 **Market Promotion**
 -Promote on social media and blockchain communities to expand project influence.
+
 -Collaborate with environmental organizations to jointly promote the Great Green Wall initiative.
 
 
@@ -180,6 +185,7 @@ This roadmap aims to establish Dropin as a decentralized application that suppor
 ###  Phase 3: Feature Expansion and Ecosystem Development
 **NFT Marketplace**
 -Establish an NFT trading marketplace to support user-to-user trading of NFTs.
+
 -Introduce NFT leasing functionality to enhance the utility of NFTs.
 
 **DAO Governance**
@@ -190,3 +196,42 @@ This roadmap aims to establish Dropin as a decentralized application that suppor
 
 **Engage More Partners**
 -Collaborate with additional environmental organizations and enterprises to promote the Great Green Wall initiative collectively.
+
+# Key Metrics
+
+**User Growth:** Monthly new user count, active user count
+
+**Transaction Volume:** NFT transaction volume, DePIN transaction volume
+
+**Community Engagement:** Community member count, activity level, participation rate
+
+**Great Green Wall Progress:** Funds raised, equipment deployed
+
+# Risk Assessment and Mitigation
+
+**Technical Risks**
+Utilize mature blockchain technologies, strengthen code audits, and conduct regular security assessments.
+
+**Market Risks**
+Monitor market conditions and adjust marketing strategies accordingly.
+
+**Regulatory Risks**
+Stay informed about relevant regulations to ensure compliant operations.
+
+# Success Criteria
+
+**User Growth:** Sustained increase in user numbers and high community activity.
+
+**Project Impact:** Successfully raise sufficient funds to support the Great Green Wall initiative.
+
+**Ecosystem Prosperity:** Establish a healthy, sustainable blockchain ecosystem.
+
+# Summary
+
+This roadmap outlines how the Dropin project will gradually realize its vision of connecting users with global environmental efforts through blockchain technology, collectively contributing to the United Nations FAO's Great Green Wall initiative.
+
+Please note:
+
+The above roadmap serves as an example; specific implementation details will need to be adjusted based on actual project conditions.
+Throughout project progression, ongoing user feedback should be gathered, and strategies should be modified in response to market changes.
+It is recommended to partner with a professional blockchain development team to facilitate project implementation.
