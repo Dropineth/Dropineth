@@ -174,3 +174,19 @@ This roadmap aims to establish Dropin as a decentralized application that suppor
 **Market Promotion**
 -Promote on social media and blockchain communities to expand project influence.
 -Collaborate with environmental organizations to jointly promote the Great Green Wall initiative.
+
+
+
+###  Phase 3: Feature Expansion and Ecosystem Development
+**NFT Marketplace**
+-Establish an NFT trading marketplace to support user-to-user trading of NFTs.
+-Introduce NFT leasing functionality to enhance the utility of NFTs.
+
+**DAO Governance**
+-Implement DAO governance models, allowing community members to influence the project's future.
+
+**Cross-Chain Interoperability**
+-Support assets and users from other blockchains to broaden the ecosystem.
+
+**Engage More Partners**
+-Collaborate with additional environmental organizations and enterprises to promote the Great Green Wall initiative collectively.
