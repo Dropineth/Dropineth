@@ -149,3 +149,26 @@ Note: The core features represent the first four steps of the implemented roadma
 ###  Feature 6: Exploring DAO Governance Model: 
 **Explanation:**
 -Establish a decentralized autonomous organization to allow community members to participate in project decision-making.
+
+
+
+##  Roadmap
+# Overview
+This roadmap aims to establish Dropin as a decentralized application that supports the Great Green Wall initiative in a gamified manner, leveraging blockchain technology to achieve transparent and equitable resource distribution while stimulating community engagement.
+
+###  Phase 1: MVP Development and Testing
+**Core Features Development**
+-Build smart contracts on the Vara Network & Solana to implement core functionalities such as lottery, reward distribution, and NFT minting.
+-Develop the user frontend, providing a simple and user-friendly interface.
+-Integrate Blink social network to facilitate user interaction and sharing.
+**Testing and Optimization**
+-Conduct unit tests, integration tests, and security assessments.
+-Optimize user experience and improve system performance.
+
+###  Phase 2: Community Building and Promotion (3-6 months)
+**Community Incentive Programs**
+-Design multi-layered incentive mechanisms to encourage users to invite friends and participate in community activities.
+-Empower the community with governance rights, enabling members to actively participate in shaping the project's future.
+**Market Promotion**
+-Promote on social media and blockchain communities to expand project influence.
+-Collaborate with environmental organizations to jointly promote the Great Green Wall initiative.
