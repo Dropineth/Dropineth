@@ -128,27 +128,27 @@ Note: The core features represent the first four steps of the implemented roadma
 
 ### Core Feature 1: User Registration and Authentication
 **Explanation:**
--Users can register via email or social accounts, complete KYC verification, or link their wallet address for identity validation.
+Users can register via email or social accounts, complete KYC verification, or link their wallet address for identity validation.
 
 ###  Feature 2: Equipment Crowdfunding
 **Explanation:**
--Users can participate in crowdfunding as a group to purchase solar panels, drip irrigation pipes, and other equipment to achieve sustainable development goals.
+Users can participate in crowdfunding as a group to purchase solar panels, drip irrigation pipes, and other equipment to achieve sustainable development goals.
 
 ###  Feature 3: Lucky Draw
 **Explanation:**
--At the end of each crowdfunding cycle, the system randomly selects lucky users to gain corresponding DePIN rights, including future benefits from power, water, and pipeline supply. Non-winning users will receive tree planting rights and can benefit from future carbon credits. If a winning user opts out of DePIN rights, they can choose to participate in the GameFi lottery to receive tokens.
+At the end of each crowdfunding cycle, the system randomly selects lucky users to gain corresponding DePIN rights, including future benefits from power, water, and pipeline supply. Non-winning users will receive tree planting rights and can benefit from future carbon credits. If a winning user opts out of DePIN rights, they can choose to participate in the GameFi lottery to receive tokens.
 
 ###  Feature 4: Blink Sharing on Twitter
 **Explanation:**
--Users can share activities via Blink to Twitter, and through sharing interactions, they can earn rewards, such as optional tree planting rights.
+Users can share activities via Blink to Twitter, and through sharing interactions, they can earn rewards, such as optional tree planting rights.
 
 ###  Feature 5: NFT Trading: 
 **Explanation:**
--Users can trade NFTs on decentralized exchanges, enabling asset circulation.
+Users can trade NFTs on decentralized exchanges, enabling asset circulation.
 
 ###  Feature 6: Exploring DAO Governance Model: 
 **Explanation:**
--Establish a decentralized autonomous organization to allow community members to participate in project decision-making.
+Establish a decentralized autonomous organization to allow community members to participate in project decision-making.
 
 
 
@@ -161,14 +161,16 @@ This roadmap aims to establish Dropin as a decentralized application that suppor
 -Build smart contracts on the Vara Network & Solana to implement core functionalities such as lottery, reward distribution, and NFT minting.
 -Develop the user frontend, providing a simple and user-friendly interface.
 -Integrate Blink social network to facilitate user interaction and sharing.
+
 **Testing and Optimization**
 -Conduct unit tests, integration tests, and security assessments.
 -Optimize user experience and improve system performance.
 
-###  Phase 2: Community Building and Promotion (3-6 months)
+###  Phase 2: Community Building and Promotion
 **Community Incentive Programs**
 -Design multi-layered incentive mechanisms to encourage users to invite friends and participate in community activities.
 -Empower the community with governance rights, enabling members to actively participate in shaping the project's future.
+
 **Market Promotion**
 -Promote on social media and blockchain communities to expand project influence.
 -Collaborate with environmental organizations to jointly promote the Great Green Wall initiative.
