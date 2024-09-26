@@ -114,3 +114,38 @@ Dropin is a new project formed for the August 2024 ETH Hackathon and has not yet
 [Click here](https://docs.google.com/document/d/1qE7gY0R5kyxBSBIOmm-YX12IrnN0uARLy0hjv1_aZBc/edit?usp=sharing)
 
 
+# V2.0 Vara-Solana Dropin DApp degreenpin & gamefi
+
+A decentralized lottery platform employing DePIN to tokenize real-world assets related to reforestation, allowing participants to directly contribute to the UN FAO's Great Green Wall initiative while earning rewards.
+
+
+# Project Overview
+Dropin is an innovative blockchain DApp built on the Vara Network, designed to provide users with a new interactive experience and value creation platform through gamified lotteries, financial incentives, NFT assets, and decentralized trading. Leveraging smart contracts and blockchain technology, Dropin ensures fairness, transparency, and security in the lottery process.
+
+## Core Features
+
+Note: The core features represent the first four steps of the implemented roadmap.
+
+### Core Feature 1: User Registration and Authentication
+**Explanation:**
+-Users can register via email or social accounts, complete KYC verification, or link their wallet address for identity validation.
+
+###  Feature 2: Equipment Crowdfunding
+**Explanation:**
+-Users can participate in crowdfunding as a group to purchase solar panels, drip irrigation pipes, and other equipment to achieve sustainable development goals.
+
+###  Feature 3: Lucky Draw
+**Explanation:**
+-At the end of each crowdfunding cycle, the system randomly selects lucky users to gain corresponding DePIN rights, including future benefits from power, water, and pipeline supply. Non-winning users will receive tree planting rights and can benefit from future carbon credits. If a winning user opts out of DePIN rights, they can choose to participate in the GameFi lottery to receive tokens.
+
+###  Feature 4: Blink Sharing on Twitter
+**Explanation:**
+-Users can share activities via Blink to Twitter, and through sharing interactions, they can earn rewards, such as optional tree planting rights.
+
+###  Feature 5: NFT Trading: 
+**Explanation:**
+-Users can trade NFTs on decentralized exchanges, enabling asset circulation.
+
+###  Feature 6: Exploring DAO Governance Model: 
+**Explanation:**
+-Establish a decentralized autonomous organization to allow community members to participate in project decision-making.
