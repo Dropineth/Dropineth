@@ -1,0 +1,24 @@
+Degreenpin README 
+
+markdown
+# Vara Crowdfunding Platform
+
+## Project Overview
+The Vara Crowdfunding Platform aims to address financing challenges to support the United Nations' Great Green Wall initiative. Users can finance solar panels, drip irrigation pipes, and air water harvesting devices through a crowdfunding mechanism and gain ownership of these devices and future profit-sharing rights through a lottery draw.
+
+## Features
+- User registration and team formation (100 people per group)
+- Device crowdfunding (solar panels, drip irrigation pipes, air water harvesting devices)
+- Lottery draw mechanism
+- Profit distribution system
+
+## Technical Architecture
+- **Vara Blockchain**: Serves as the liquidity token.
+- **Solana Blockchain**: Used for on-chain payment interactions.
+- **Blink and Action**: User interaction and growth tools.
+
+## Installation and Running
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/vara-crowdfunding.git
+   cd vara-crowdfunding
