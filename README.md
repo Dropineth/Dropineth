@@ -238,4 +238,3 @@ Proficient in Solidity, Python, and Java. 2+ years developing Ethereum smart con
 [Click here](https://dial.to/?action=solana-action:https://dropin-plum.vercel.app/api/supply)
 [Click here](https://claude.site/artifacts/2d539d34-e005-41eb-bfc9-540b7ba56d43)
 
-![image](https://github.com/user-attachments/assets/10b255cd-e1be-4385-8885-d47d9405cff7)
