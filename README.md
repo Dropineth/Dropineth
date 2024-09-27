@@ -152,50 +152,36 @@ Establish a decentralized autonomous organization to allow community members to 
 
 
 
-##  Roadmap
-# Overview
+#  Roadmap
+## Overview
 This roadmap aims to establish Dropin as a decentralized application that supports the Great Green Wall initiative in a gamified manner, leveraging blockchain technology to achieve transparent and equitable resource distribution while stimulating community engagement.
-
-###  Phase 1: MVP Development and Testing
-**Core Features Development**
--Build smart contracts on the Vara Network & Solana to implement core functionalities such as lottery, reward distribution, and NFT minting.
-
--Develop the user frontend, providing a simple and user-friendly interface.
-
--Integrate Blink social network to facilitate user interaction and sharing.
-
-**Testing and Optimization**
--Conduct unit tests, integration tests, and security assessments.
-
--Optimize user experience and improve system performance.
-
-###  Phase 2: Community Building and Promotion
-**Community Incentive Programs**
--Design multi-layered incentive mechanisms to encourage users to invite friends and participate in community activities.
-
--Empower the community with governance rights, enabling members to actively participate in shaping the project's future.
-
-**Market Promotion**
--Promote on social media and blockchain communities to expand project influence.
-
--Collaborate with environmental organizations to jointly promote the Great Green Wall initiative.
+This roadmap emphasizes technical stability, user growth, and global scaling while advancing the UN’s Green Wall initiative.
 
 
+###  Q1: Core Infrastructure Development
 
-###  Phase 3: Feature Expansion and Ecosystem Development
-**NFT Marketplace**
--Establish an NFT trading marketplace to support user-to-user trading of NFTs.
+**Smart Contracts & Platform Architecture:** Complete the development of smart contracts on Vara and Solana for the DePIN project, including crowdfunding and reward distribution mechanisms.
+**MVP Testing:** Launch an MVP for internal testing, refining key features like user registration, lottery mechanics, and on-chain payment interactions.
+**Team Expansion & Partnerships:** Finalize key members of the tech, operations, and marketing teams, while building partnerships with blockchain projects and environmental organizations (e.g., FAO).
 
--Introduce NFT leasing functionality to enhance the utility of NFTs.
+###  Q2: Community Expansion & Early User Acquisition
 
-**DAO Governance**
--Implement DAO governance models, allowing community members to influence the project's future.
+**Community Building:** Use airdrops and GameFi incentives to attract early adopters and turn them into long-term users and ambassadors.
+**NFT & Token Launch:** Introduce DePIN-backed NFTs and conduct an initial token offering (IDO) for fundraising.
+**Cross-Chain Exploration:** Explore multi-chain support, enabling users to participate via other compatible chains like Polygon or Avalanche.
 
-**Cross-Chain Interoperability**
--Support assets and users from other blockchains to broaden the ecosystem.
+###  Q3: Ecosystem Growth & Global Outreach
 
-**Engage More Partners**
--Collaborate with additional environmental organizations and enterprises to promote the Great Green Wall initiative collectively.
+**Global Marketing:** Focus on international promotion in regions supporting the Green Wall initiative (Africa and the Middle East) in collaboration with NGOs and green projects.
+**Project Expansion:** Add more DePIN projects like solar plants and water management, allowing users to diversify their green investments.
+**Multi-Language Support:** Localize the platform with multi-language support to attract a global user base.
+
+###  Q4: Innovation & Long-Term Development
+
+**DAO Governance & Community Voting:** Implement a governance model that empowers users to vote on platform decisions, ensuring transparency and community ownership.
+**New Environmental Incentives:** Introduce carbon offset trading and reward systems tied to carbon credits for long-term user incentives.
+**Future Funding:** Prepare for a Series A funding round to support platform expansion and global growth.
+
 
 # Key Metrics
 
@@ -235,3 +221,19 @@ Please note:
 The above roadmap serves as an example; specific implementation details will need to be adjusted based on actual project conditions.
 Throughout project progression, ongoing user feedback should be gathered, and strategies should be modified in response to market changes.
 It is recommended to partner with a professional blockchain development team to facilitate project implementation.
+
+# team
+**Lee** https://github.com/Dropineth/
+10 years of experience in TMT and consumer investment research. Focused on sustainable killer applications in Web2 and Web3. Former member of CMRC's science and technology enterprise marketing and business growth research group.
+
+**Junhua** https://github.com/XieJunhua/
+Proficient in Solidity, Python, and Java. 2+ years developing Ethereum smart contracts. Experienced in blockchain technology, including Ethereum, Solana, and Sui. Strong background in data and backend development.
+
+# Project Demo
+
+## Deck
+[Click here](https://docs.google.com/presentation/d/1EQe44HkeCRy0gmnBXn2PY2odMYfLssrhFr1e4a9n9Tk/edit?usp=sharing)
+
+## Frontend Interaction Example
+[Click here](https://dial.to/?action=solana-action:https://dropin-plum.vercel.app/api/supply)
+[Click here](https://claude.site/artifacts/2d539d34-e005-41eb-bfc9-540b7ba56d43)
