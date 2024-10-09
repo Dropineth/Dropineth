@@ -1,5 +1,4 @@
-# dropin
- base Solana v2.0
+
  
 # V2.0 Solana Dropin DApp gamefi
 
